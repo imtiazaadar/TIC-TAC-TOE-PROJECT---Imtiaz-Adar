@@ -3,7 +3,6 @@
 # Language Used : Python
 # Date : 26/6/2021
 # Email : imtiaz-adar@hotmail.com, imtiazadarofficial@gmail.com
-# Phone : +8801778-767775
 
 
 # ------------------------------- TIC TAC TOE GAME WITH COMPUTER ----------------------------------------
